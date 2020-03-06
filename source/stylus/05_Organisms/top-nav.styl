@@ -1,0 +1,48 @@
+.top-nav__content
+	@extends $row--full
+
+	align-items center
+	display flex
+	justify-content space-between
+
+	margin-bottom 24px
+	padding 10px 0
+
+.top-nav__links
+.top-nav__logo-link
+	display flex
+
+.top-nav__link
+	margin-left 24px
+
+	a
+		color black
+
+.top-nav__logo-link
+	align-items center
+	display flex
+
+	color black
+	text-decoration none
+
+	span
+		display block
+
+		margin-left 10px
+
+.top-nav__link
+.top-nav__logo-link
+	font-size 0.7rem
+
+	@media screen and (min-width $breakpoint--phablet)
+		font-size 0.8rem
+
+	@media screen and (min-width $breakpoint--laptop)
+		font-size 1rem
+
+
+.top-nav__logo-holder
+	max-width 45%
+
+	@media screen and (min-width $breakpoint--laptop)
+		max-width 25%

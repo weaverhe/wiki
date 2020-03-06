@@ -1,0 +1,58 @@
+*:focus:not(:focus-visible)
+*:before:focus:not(:focus-visible),
+*:after:focus:not(:focus-visible)
+	outline none
+
+.screen-reader-only
+#skipnav
+	overflow hidden
+
+	position absolute
+
+	height 1px
+	margin -1px
+	padding 0
+	width 1px
+
+	white-space nowrap
+
+	border 0
+	clip rect( 0, 0, 0, 0 )
+
+	position absolute
+
+#skipnav:focus
+		left 0
+		top 0
+
+		height auto
+		margin 0
+		padding 10px 0
+		width 100%
+
+		color red
+		font-weight bold
+		text-align center
+
+		background GhostWhite
+		border 2px solid red
+		border-left none
+		border-right none
+		clip auto
+
+.plain-list
+	padding-left 0
+
+	list-style url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'/%3E")
+
+main:focus
+	outline 0
+
+// this can be problematic in browser testing, and may need to be temporarily disabled.
+@media screen and ( prefers-reduced-motion reduce )
+	*
+	*:before
+	*:after
+		animation none !important
+		scroll-behavior auto !important // @stylint ignore
+		transition none !important

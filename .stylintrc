@@ -1,0 +1,53 @@
+{
+  "borderNone": true,
+  "brackets": {
+    "error": true,
+    "expect": "never"
+  },
+  "colons": {
+    "error": true,
+    "expect": "never"
+  },
+  "colors": {
+    "error": true,
+    "expect": "always"
+  },
+  "commaSpace": {
+    "error": true,
+    "expect": "always"
+  },
+  "commentSpace": {
+    "error": true,
+    "expect": "always"
+  },
+  "cssLiteral": false,
+  "depthLimit": false,
+  "duplicates": false,
+  "efficient": true,
+  "emoji": true,
+  "enforceBlockStyle": true,
+  "enforceVarStyle": true,
+  "extendPref": "@extends",
+  "globalDupe": true,
+  "indentSpaces": false,
+  "leadingZero": {
+    "error": true,
+    "expect": "always"
+  },
+  "maxErrors": 0,
+  "maxWarnings": false,
+  "mixed": true,
+  "namingConvention": "BEM",
+  "namingConventionStrict": true,
+  "parenSpace": true,
+  "placeholders": true,
+  "quotePref": "single",
+  "semicolons": true,
+  "stackedProperties": true,
+  "universal": false,
+  "valid": true,
+  "whitespace": true,
+  "zeroUnits": true,
+  "zIndexDuplicates": false,
+  "zIndexNormalize": 5
+}

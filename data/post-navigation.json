@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "name": "Art & Design",
+      "slug": "art-design",
+      "children": [
+        {
+          "name": "Design Tools",
+          "slug": "design-tools"
+        },
+        {
+          "name": "UX",
+          "slug": "ux"
+        }
+      ]
+    },
+    {
+      "name": "Cooking",
+      "slug": "cooking",
+      "children": [
+        {
+          "name" : "Base Skills",
+          "slug" : "base-cooking-skills"
+        },
+        {
+          "name" : "Cookbooks",
+          "slug" : "cookbooks"
+        },
+        {
+          "name": "Entertaining",
+          "slug": "entertaining"
+        }
+      ]
+    },
+    {
+      "name": "Development",
+      "slug": "development",
+      "children": [
+        {
+          "name": "Command Line, BASH, etc.",
+          "slug": "command-line-bash"
+        },
+        {
+          "name": "Email Development",
+          "slug": "email-development"
+        },
+        {
+          "name": "Javascript",
+          "slug": "javascript"
+        },
+        {
+          "name": "WordPress",
+          "slug": "wordpress"
+        }
+      ]
+    },
+    {
+      "name": "Reading",
+      "slug": "reading",
+      "children": [
+        {
+          "name": "Bluebeard",
+          "slug": "bluebeard"
+        },
+        {
+          "name": "How to Read a Book",
+          "slug": "how-to-read-a-book"
+        },
+        {
+          "name": "An Indigenous People's History of the US",
+          "slug": "indigenous-peoples-history-us"
+        },
+        {
+          "name": "Ultralearners",
+          "slug": "ultralearners"
+        }
+      ]
+    },
+    {
+      "name": "Unfiled",
+      "children": [
+        {
+          "name": "Foreign Language",
+          "slug": "foreign-language"
+        },
+        {
+          "name": "Future of Work",
+          "slug": "future-of-work"
+        },
+        {
+          "name": "Music",
+          "slug": "music"
+        },
+        {
+          "name": "Self Improvement",
+          "slug": "self-improvement"
+        },
+        {
+          "name": "Travel",
+          "slug": "travel"
+        },
+        {
+          "name": "Woah",
+          "slug": "woah"
+        }
+      ]
+    }
+  ]
+}

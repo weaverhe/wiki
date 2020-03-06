@@ -1,0 +1,12 @@
+mixin sideNav()
+	nav.post-navigation(aria-label="Post Navigation")
+		ul.post-navigation__items.plain-list
+			each item in postNavigation
+				li
+					a(href=`/${item.slug}`) #{item.name}
+
+					if item.children
+						ul.post-navigation__children.plain-list
+							each child in item.children
+								li.post-navigation__child
+									a(href=`/entry/${child.slug}`) #{child.name}

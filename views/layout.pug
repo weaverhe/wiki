@@ -1,0 +1,28 @@
+include components/_footer
+include components/_side-nav
+include components/_top-nav
+
+block variables
+
+doctype html
+html
+	head
+		block head
+			title Heather's Wiki
+			meta(name="description" content="An attempt at recording everything I know")
+
+		meta(charset="utf-8")
+		meta(name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no")
+		link(rel="stylesheet" href="/css/style.css")
+
+	body
+		a#skipnav(href="#main-content" style="display:none") Skip to Content
+
+		+topNav()
+		.page-container
+			+sideNav()
+
+			main.content(id="main-content" tabindex="-1")
+				block content
+
+		+footer()

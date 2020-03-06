@@ -1,0 +1,23 @@
+{
+	"extends": "airbnb",
+	"env": {
+		"node": true,
+		"es6": true,
+		"browser": true
+	},
+	"rules": {
+		"indent": ["error", "tab"],
+		"no-multi-spaces": 0,
+        "no-tabs": 0,
+		"no-undef": 1,
+		"no-unused-vars": 1,
+		"space-in-parens": [2, "always"],
+		"space-unary-ops": [
+			2, {
+				"words": false,
+				"nonwords": true 
+			}
+		]
+	},
+	"globals": {}
+}

@@ -1,0 +1,16 @@
+mixin topNav()
+	nav.top-nav(aria-label="Top Navigation")
+		.top-nav__content
+			.top-nav__logo-holder
+				a.top-nav__logo-link(href="/")
+					img.top-nav__logo(src="/img/heather-weaver-logo.png" alt="Heather Weaver")
+					span.top-nav__logo-label [Wiki]
+					span.screen-reader-only Homepage
+
+			ul.top-nav__links.plain-list
+				li.top-nav__link
+					a(href="https://hweaver.com") Website
+				li.top-nav__link
+					a(href="https://hweaver.com/work") Work
+				li.top-nav__link
+					a(href="https://www.instagram.com/heatherthedev/") Instagram
