@@ -5,12 +5,46 @@
       "slug": "art-design",
       "children": [
         {
-          "name": "Design Tools",
+          "name": "Assets",
+          "slug": "design-assets"
+        },
+        {
+          "name": "Inspiration",
+          "slug": "design-inspiration"
+        },
+        {
+          "name": "Tools",
           "slug": "design-tools"
         },
         {
           "name": "UX",
           "slug": "ux"
+        }
+      ]
+    },
+    {
+      "name": "Business & Marketing",
+      "slug": "business-marketing",
+      "children": [
+        {
+          "name": "Digital Marketing",
+          "slug": "digital-marketing"
+        },
+        {
+          "name": "Freelancing",
+          "slug": "freelancing"
+        },
+        {
+          "name": "Future of Work",
+          "slug": "future-of-work"
+        },
+        {
+          "name": "Innovation",
+          "slug": "innovation"
+        },
+        {
+          "name": "Social Media",
+          "slug": "social-media"
         }
       ]
     },
@@ -53,6 +87,10 @@
           "slug": "javascript"
         },
         {
+          "name": "Performance",
+          "slug": "performance"
+        },
+        {
           "name": "WordPress",
           "slug": "wordpress"
         }
@@ -92,8 +130,8 @@
           "slug": "fitness"
         },
         {
-          "name": "Future of Work",
-          "slug": "future-of-work"
+          "name": "Household",
+          "slug": "household"
         },
         {
           "name": "Music",
