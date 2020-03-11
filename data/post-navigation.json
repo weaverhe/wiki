@@ -19,6 +19,10 @@
         {
           "name": "UX",
           "slug": "ux"
+        },
+        {
+          "name": "Web Design",
+          "slug": "web-design"
         }
       ]
     },
@@ -41,6 +45,10 @@
         {
           "name": "Innovation",
           "slug": "innovation"
+        },
+        {
+          "name": "Management",
+          "slug": "management"
         },
         {
           "name": "Social Media",
@@ -71,6 +79,10 @@
       "slug": "development",
       "children": [
         {
+          "name": "Accessibility",
+          "slug": "accessibility"
+        },
+        {
           "name": "Command Line, BASH, etc.",
           "slug": "command-line-bash"
         },
@@ -83,6 +95,10 @@
           "slug": "email-development"
         },
         {
+          "name": "Git & Version Control",
+          "slug": "git-vc"
+        },
+        {
           "name": "Javascript",
           "slug": "javascript"
         },
@@ -91,8 +107,26 @@
           "slug": "performance"
         },
         {
+          "name": "Regex",
+          "slug": "regex"
+        },
+        {
           "name": "WordPress",
           "slug": "wordpress"
+        }
+      ]
+    },
+    {
+      "name": "Politics",
+      "slug": "politics",
+      "children": [
+        {
+          "name": "Social Justice",
+          "slug": "social-justice"
+        },
+        {
+          "name": "UBI",
+          "slug": "ubi"
         }
       ]
     },
@@ -130,6 +164,10 @@
           "slug": "fitness"
         },
         {
+          "name": "Games",
+          "slug": "games"
+        },
+        {
           "name": "Household",
           "slug": "household"
         },
@@ -138,12 +176,24 @@
           "slug": "music"
         },
         {
+          "name": "Relationships",
+          "slug": "relationships"
+        },
+        {
           "name": "Self Improvement",
           "slug": "self-improvement"
         },
         {
+          "name": "Tiny Houses",
+          "slug": "tiny-houses"
+        },
+        {
           "name": "Travel",
           "slug": "travel"
+        },
+        {
+          "name": "Weed",
+          "slug": "weed"
         },
         {
           "name": "Woah",
