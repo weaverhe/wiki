@@ -111,6 +111,10 @@
           "slug": "regex"
         },
         {
+          "name": "Shopify",
+          "slug": "shopify"
+        },
+        {
           "name": "WordPress",
           "slug": "wordpress"
         }
