@@ -99,6 +99,10 @@
           "slug": "git-vc"
         },
         {
+          "name": "Hardware",
+          "slug": "hardware"
+        },
+        {
           "name": "Javascript",
           "slug": "javascript"
         },
@@ -113,6 +117,10 @@
         {
           "name": "Shopify",
           "slug": "shopify"
+        },
+        {
+          "name": "Web Development",
+          "slug": "web-development"
         },
         {
           "name": "WordPress",
@@ -159,6 +167,10 @@
     {
       "name": "Unfiled",
       "children": [
+        {
+          "name": "Adulting",
+          "slug": "adulting"
+        },
         {
           "name": "Foreign Language",
           "slug": "foreign-language"
