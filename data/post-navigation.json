@@ -31,6 +31,10 @@
       "slug": "business-marketing",
       "children": [
         {
+          "name": "Copywriting",
+          "slug": "copywriting"
+        },
+        {
           "name": "Digital Marketing",
           "slug": "digital-marketing"
         },
@@ -53,6 +57,10 @@
         {
           "name": "Social Media",
           "slug": "social-media"
+        },
+        {
+          "name": "Solopreneurship",
+          "slug": "solopreneurship"
         }
       ]
     },
