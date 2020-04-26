@@ -17,6 +17,10 @@
           "slug": "design-inspiration"
         },
         {
+          "name": "Photography",
+          "slug": "photography"
+        },
+        {
           "name": "Tools",
           "slug": "design-tools"
         },
@@ -192,6 +196,10 @@
           "slug": "adulting"
         },
         {
+           "name": "Death",
+           "slug": "death"
+        },
+        {
           "name": "Foreign Language",
           "slug": "foreign-language"
         },
@@ -206,6 +214,10 @@
         {
           "name": "Household",
           "slug": "household"
+        },
+        {
+          "name": "Learning",
+          "slug": "learning"
         },
         {
           "name": "Music",
