@@ -167,6 +167,10 @@
           "slug": "bluebeard"
         },
         {
+          "name": "Good Reads",
+          "slug": "good-reads"
+        },
+        {
           "name": "How to Read a Book",
           "slug": "how-to-read-a-book"
         },
@@ -214,6 +218,10 @@
         {
           "name": "Self Improvement",
           "slug": "self-improvement"
+        },
+        {
+          "name": "Stoicism",
+          "slug": "stoicism"
         },
         {
           "name": "Tiny Houses",
