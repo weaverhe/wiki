@@ -131,6 +131,10 @@
           "slug": "performance"
         },
         {
+          "name": "Python",
+          "slug": "python"
+        },
+        {
           "name": "Regex",
           "slug": "regex"
         },
@@ -220,8 +224,16 @@
           "slug": "learning"
         },
         {
+          "name": "Math",
+          "slug": "math"
+        },
+        {
           "name": "Music",
           "slug": "music"
+        },
+        {
+          "name": "Outdoors",
+          "slug": "outdoors"
         },
         {
           "name": "Relationships",
