@@ -248,6 +248,10 @@
           "slug": "personal-care"
         },
         {
+          "name": "Philosophy",
+          "slug": "philosophy"
+        },
+        {
           "name": "Relationships",
           "slug": "relationships"
         },
