@@ -44,7 +44,13 @@
         },
         {
           "name": "Digital Marketing",
-          "slug": "digital-marketing"
+          "slug": "digital-marketing",
+          "children": [
+            {
+              "name": "Social Media",
+              "slug": "social-media"
+            }
+          ]
         },
         {
           "name": "Freelancing",
@@ -61,10 +67,6 @@
         {
           "name": "Management",
           "slug": "management"
-        },
-        {
-          "name": "Social Media",
-          "slug": "social-media"
         },
         {
           "name": "Solopreneurship",

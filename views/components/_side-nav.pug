@@ -10,3 +10,9 @@ mixin sideNav()
 							each child in item.children
 								li.post-navigation__child
 									a(href=`/entry/${child.slug}`) #{child.name}
+
+									if child.children
+										ul.post-navigation__children.plain-list
+											each child2 in child.children
+												li.post-navigation__child
+													a(href=`/entry/${child2.slug}`) #{child2.name}
